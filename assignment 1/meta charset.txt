@@ -1,0 +1,19 @@
+﻿Significance of the meta charset uft-8
+﻿Meta
+It is an HTML tag that contains metadata about a webpage. They are used by search engine to determine the page content and how to treat a webpage.
+Charset: It is an attribute that tells your browser what character encoding to use for this webpage to show the content as desired.
+UTF-8: It is the version of the character set.
+
+
+Why is it Important?
+Ever used emojis, yes? Well, this meta tag is responsible for encoding these emojis into a machine-readable character and vice-versa. Most websites these days have to display characters which are not traditional ASCII characters. When receiving such characters in an HTML source, Browsers should be able to handle those to display properly.
+
+
+Why use UTF-8?
+Well, it’s very unlikely that you’re not using it already. The UTF-8 character set covers all characters and symbols that exist in this universe. So, it only makes sense to use it to make your site be perceived as it is desired. You want to use an emoji or character, make your site look modern and graphical, UTF-8 to the rescue.
+
+
+How does it work?
+Meta Charset is what determines how text is transmitted and stored. This text data is usually converted to binary first and then there needs to be a kind of cipher that connects characters with their correct binary equivalents.
+When this data is eventually decoded, the character encoding must be known beforehand or there could be complications. An example of these can be seen in browsers when you’re looking at a webpage. Information about the kind of character set used comes from the server or is written directly by the developer. Unfortunately, there is a myriad of character sets and this means diverse ways of matching binary codes to characters and bytes.
+For content developers and authors, choosing the UTF-8 character set for your content means that you can use a single character set to multiple characters needs thereby simplifying things greatly without the need to track and convert multiple times.
